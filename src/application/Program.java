@@ -6,12 +6,11 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-
 import model.entities.CarRental;
-import model.entities.Invoice;
 import model.entities.Vehicle;
 import model.services.BrazilTaxService;
 import model.services.RentalService;
+import model.services.TaxService;
 
 public class Program {
 
